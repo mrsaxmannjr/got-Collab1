@@ -1,2 +1,2 @@
-##Git Workflow
-*Feature Branch - paired with BJ
+## Git Workflow
+* Feature Branch - paired with BJ
