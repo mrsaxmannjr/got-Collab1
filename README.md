@@ -1,2 +1,3 @@
 ## Git Workflow
-* Feature Branch - paired with BJ
+* Feature Branch
+* James Mann and BJ Collins
